@@ -15,4 +15,6 @@ For the upper bound it's a bit trickier to find a reasonable value. If we take a
 
 I would advise to read this one.
 
+Uploaded several solutions with references.
+
 
