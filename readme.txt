@@ -15,6 +15,6 @@ For the upper bound it's a bit trickier to find a reasonable value. If we take a
 
 I would advise to read this one.
 
-Uploaded several solutions with references.
+Current solution gives wrong answer, but that cause on project euler website / its common they dont count for 1,2 which are kinda factorions too
 
 
